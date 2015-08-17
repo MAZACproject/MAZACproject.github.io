@@ -131,17 +131,6 @@ body
     font-size: 11px;
 	background-color: #E0FFE0;
 }
-/*
-<<<<<<< HEAD
-div {
-    width: 800px;
-}
-=======
-/*div {
-    width: 1200px;
-    border: 2px dotted black;
-}*/
->>>>>>> origin/master
 
 /* unvisited link */
 a:link {
